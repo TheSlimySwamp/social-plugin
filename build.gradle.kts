@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "foundation.esoteric"
-version = "0.2.0"
+version = "0.2.1"
 description = "The plugin to manage social aspects of The Slimy Swamp, such as the messaging system, guilds and parties."
 
 java {
