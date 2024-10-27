@@ -1,7 +1,7 @@
 package foundation.esoteric.tss.minecraft.plugins.social;
 
-import org.esoteric.tss.minecraft.plugins.core.TSSCorePlugin;
-import org.esoteric.tss.minecraft.plugins.ranks.TSSRanksPlugin;
+import foundation.esoteric.tss.minecraft.plugins.core.TSSCorePlugin;
+import foundation.esoteric.tss.minecraft.plugins.ranks.TSSRanksPlugin;
 import foundation.esoteric.tss.minecraft.plugins.social.commands.ChatCommand;
 import foundation.esoteric.tss.minecraft.plugins.social.commands.MessageCommand;
 import foundation.esoteric.tss.minecraft.plugins.social.commands.PartyCommand;

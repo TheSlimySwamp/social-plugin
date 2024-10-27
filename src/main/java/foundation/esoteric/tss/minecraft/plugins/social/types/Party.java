@@ -1,8 +1,8 @@
 package foundation.esoteric.tss.minecraft.plugins.social.types;
 
-import org.esoteric.tss.minecraft.plugins.core.TSSCorePlugin;
-import org.esoteric.tss.minecraft.plugins.core.data.player.Message;
-import org.esoteric.tss.minecraft.plugins.core.managers.MessageManager;
+import foundation.esoteric.tss.minecraft.plugins.core.TSSCorePlugin;
+import foundation.esoteric.tss.minecraft.plugins.core.data.player.Message;
+import foundation.esoteric.tss.minecraft.plugins.core.managers.MessageManager;
 import foundation.esoteric.tss.minecraft.plugins.social.TSSSocialPlugin;
 import org.bukkit.Bukkit;
 import org.bukkit.OfflinePlayer;

@@ -1,7 +1,7 @@
 package foundation.esoteric.tss.minecraft.plugins.social.event.listeners;
 
-import org.esoteric.tss.minecraft.plugins.core.data.player.Message;
-import org.esoteric.tss.minecraft.plugins.core.util.MapUtil;
+import foundation.esoteric.tss.minecraft.plugins.core.data.player.Message;
+import foundation.esoteric.tss.minecraft.plugins.core.util.MapUtil;
 import foundation.esoteric.tss.minecraft.plugins.social.TSSSocialPlugin;
 import foundation.esoteric.tss.minecraft.plugins.social.types.Party;
 import org.bukkit.Bukkit;
