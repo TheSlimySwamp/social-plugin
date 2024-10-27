@@ -1,14 +1,14 @@
-package org.esoteric.tss.minecraft.plugins.social;
+package foundation.esoteric.tss.minecraft.plugins.social;
 
 import org.esoteric.tss.minecraft.plugins.core.TSSCorePlugin;
 import org.esoteric.tss.minecraft.plugins.ranks.TSSRanksPlugin;
-import org.esoteric.tss.minecraft.plugins.social.commands.ChatCommand;
-import org.esoteric.tss.minecraft.plugins.social.commands.MessageCommand;
-import org.esoteric.tss.minecraft.plugins.social.commands.PartyCommand;
-import org.esoteric.tss.minecraft.plugins.social.commands.ReplyCommand;
-import org.esoteric.tss.minecraft.plugins.social.event.listeners.ConnectionListener;
-import org.esoteric.tss.minecraft.plugins.social.managers.PartyManager;
-import org.esoteric.tss.minecraft.plugins.social.types.ChatType;
+import foundation.esoteric.tss.minecraft.plugins.social.commands.ChatCommand;
+import foundation.esoteric.tss.minecraft.plugins.social.commands.MessageCommand;
+import foundation.esoteric.tss.minecraft.plugins.social.commands.PartyCommand;
+import foundation.esoteric.tss.minecraft.plugins.social.commands.ReplyCommand;
+import foundation.esoteric.tss.minecraft.plugins.social.event.listeners.ConnectionListener;
+import foundation.esoteric.tss.minecraft.plugins.social.managers.PartyManager;
+import foundation.esoteric.tss.minecraft.plugins.social.types.ChatType;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;

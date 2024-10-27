@@ -1,4 +1,4 @@
-package org.esoteric.tss.minecraft.plugins.social.commands;
+package foundation.esoteric.tss.minecraft.plugins.social.commands;
 
 import dev.jorel.commandapi.CommandAPICommand;
 import dev.jorel.commandapi.StringTooltip;
@@ -9,8 +9,8 @@ import dev.jorel.commandapi.executors.CommandArguments;
 import org.esoteric.tss.minecraft.plugins.core.TSSCorePlugin;
 import org.esoteric.tss.minecraft.plugins.core.data.player.Message;
 import org.esoteric.tss.minecraft.plugins.core.managers.MessageManager;
-import org.esoteric.tss.minecraft.plugins.social.TSSSocialPlugin;
-import org.esoteric.tss.minecraft.plugins.social.types.ChatType;
+import foundation.esoteric.tss.minecraft.plugins.social.TSSSocialPlugin;
+import foundation.esoteric.tss.minecraft.plugins.social.types.ChatType;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.jetbrains.annotations.NotNull;

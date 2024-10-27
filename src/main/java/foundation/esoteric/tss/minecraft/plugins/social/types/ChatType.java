@@ -1,4 +1,4 @@
-package org.esoteric.tss.minecraft.plugins.social.types;
+package foundation.esoteric.tss.minecraft.plugins.social.types;
 
 import org.esoteric.tss.minecraft.plugins.core.data.player.Message;
 

@@ -1,4 +1,4 @@
-package org.esoteric.tss.minecraft.plugins.social.commands;
+package foundation.esoteric.tss.minecraft.plugins.social.commands;
 
 import dev.jorel.commandapi.CommandAPICommand;
 import dev.jorel.commandapi.SuggestionInfo;
@@ -11,9 +11,9 @@ import org.esoteric.tss.minecraft.plugins.core.data.player.Message;
 import org.esoteric.tss.minecraft.plugins.core.managers.MessageManager;
 import org.esoteric.tss.minecraft.plugins.core.util.MapUtil;
 import org.esoteric.tss.minecraft.plugins.core.util.MessageUtil;
-import org.esoteric.tss.minecraft.plugins.social.TSSSocialPlugin;
-import org.esoteric.tss.minecraft.plugins.social.managers.PartyManager;
-import org.esoteric.tss.minecraft.plugins.social.types.Party;
+import foundation.esoteric.tss.minecraft.plugins.social.TSSSocialPlugin;
+import foundation.esoteric.tss.minecraft.plugins.social.managers.PartyManager;
+import foundation.esoteric.tss.minecraft.plugins.social.types.Party;
 import org.bukkit.Bukkit;
 import org.bukkit.OfflinePlayer;
 import org.bukkit.command.CommandSender;
