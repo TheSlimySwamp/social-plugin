@@ -13,3 +13,7 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](./LICENSE) for more details.
 
 You should have received a copy of the [GNU General Public License](./LICENSE) along with this program. If not, see <[gnu.org/licenses](https://www.gnu.org/licenses/)>.
+
+## Topics
+
+minecraft paper minecraft-server minecraft-plugin minecraft-servers paper-plugin party-plugin minecraft-java minecraft-server-plugin guild-plugin papermc minecraft-papermc-server minecraft-java-edition papermc-plugin minecraft-party minecraft-paper minecraft-guild minecraft-paper-plugin minecraft-messages minecraft-java-plugin
